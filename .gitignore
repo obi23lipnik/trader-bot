@@ -61,4 +61,4 @@ test.ini
 # Sensitive configs #
 #####################
 bot/bitstampApi/config.py
-bitstamp_bot/secrethere
+secrethere
